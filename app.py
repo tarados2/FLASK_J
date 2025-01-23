@@ -1,3 +1,4 @@
+#Cambios en el fichero para poder ver las modificaciones
 from flask import Flask, render_template, request, redirect, url_for
 import sqlite3
 
